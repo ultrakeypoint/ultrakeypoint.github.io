@@ -1,7 +1,8 @@
 {
   "scripts": {
     "pre": "bundler install",
-    "dev": "jekyll s --trace",
+    "dev": "jekyll s --drafts",
+    "trace": "jekyll s --trace",
     "push": "git push",
     "add": "git add .",
     "commit": "git commit -m update",
