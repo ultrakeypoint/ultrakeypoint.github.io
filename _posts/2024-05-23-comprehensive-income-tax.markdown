@@ -2,7 +2,7 @@
 layout: post
 title: 종합소득세의 달
 date: 2024-05-23
-image: /assets/images/blog/2024-05-23/0001.jpg
+image: /assets/images/blog/2024-05-23/1.png
 author: ultrakeypoint
 tags: 일상
 ---

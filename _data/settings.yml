@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: 컴퓨터 소프트웨어학을 전공하고, LG전자 휴대폰과 성북구도시관리 전산 시스템을 운영 및 개발을 하였고, 현재는 프리랜서로서 소프트웨어 유지보수 전문 기업을 운영하고 있습니다. 시스템을 구축하고 문제를 해결하는 일에 흥미를 느끼고, 클라이언트 고객의 버그를 수정해드리는 데 보람을 느끼고 있습니다.
+blurb: 컴퓨터 소프트웨어학을 전공하고, <br /> LG전자 휴대폰과 성북구도시관리 전산 시스템을 운영/개발을 업무를 수행하였고, <br /> 현재는 프리랜서로서 소프트웨어 유지보수 전문 기업을 운영하고 있습니다.<br /> 시스템을 구축하고 문제를 해결하는 일에 흥미를 느끼고,<br /> 고객의 개선사항을 수정해드리는 데 보람을 느끼고 있습니다.
 
 blurb-btn-link: "/about"
 blurb-btn-name: 더 보기
@@ -90,7 +90,7 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: 스킬
+skills-title: 기술
 skills:
   - { name: Back-end, color: "#fdb157", value: "70%" }
   - { name: Front-end, color: "#9473e6", value: "80%" }
@@ -103,22 +103,22 @@ skills:
 experience-title: 경험
 experience:
   - {
-      name: Junior Developer,
+      name: 주니어 개발자,
       icon: "icon-3.png",
-      date: "2008-12 ~ 2012-10",
-      organization: "Unichal",
+      date: "2008년 12월 ~ 2012년 10월",
+      organization: "유니챌",
     }
   - {
-      name: Intermediate Developer,
+      name: 미드레벨 개발자,
       icon: "icon-2.png",
-      date: "2012-11 ~ 2014-07",
-      organization: "SB",
+      date: "2012년 11월 ~ 2014년 07월",
+      organization: "성북구도시관리공단",
     }
   - {
-      name: Senior Developer,
+      name: 시니어 개발자,
       icon: "icon-1.png",
-      date: "2014-08 ~ 현재",
-      organization: "Inversefirm",
+      date: "2014년 08월 ~ 현재",
+      organization: "인버스펌",
     }
 
 #-------------------------------
@@ -133,18 +133,18 @@ education:
     }
   - {
       name: 정보처리기사,
-      date: "2007",
+      date: "2008",
       organization: "한국산업인력공단",
     }
   - {
-      name: 안드로이드 어플리케이션 교육 이수1,
-      date: "2000",
-      organization: "전파진흥원1",
+      name: 안드로이드 App 개발 교육 과정 수료,
+      date: "2009",
+      organization: "한국전파진흥원",
     }
   - {
-      name: 안드로이드 어플리케이션 교육 이수2,
-      date: "1998",
-      organization: "전파진흥원2",
+      name: 안드로이드 App 개발 교육 과정 수료,
+      date: "2009",
+      organization: "한국전파진흥원",
     }
 
 #-------------------------------
@@ -304,4 +304,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: 연락하기
-contact-email: ultrakeypoint@email.com
+contact-formspree: mpzvergw
