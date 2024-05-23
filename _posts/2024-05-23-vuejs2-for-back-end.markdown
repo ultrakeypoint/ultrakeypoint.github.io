@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Back-end 개발자를 위한 VueJS Framework
+title: Back-end 위한 VueJS
 date: 2024-05-23
-image: /assets/images/blog/2024-05-23/0001.jpg
+image: /assets/images/blog/2024-05-24/1.png
 author: ultrakeypoint
 tags: VueJS, VueJS 2
 ---
@@ -13,21 +13,21 @@ VueJS는 웹을 좀 더 쉽게 개발하기 위해 자바스크립트로 만들�
 
 VueJS는 이름에 있는 것 처럼 Javascript Framework이고, Javascript에서 동작하는 브라우저에서 실행이 됩니다.
 
-- VueJS : Javascript
-- Spring Boot : JAVA
-- Codeigniter : PHP
+o. VueJS : Javascript
+o. Spring Boot : JAVA
+o. Codeigniter : PHP
 
 그럼 이제 Vuejs를 위해 환경을 설정해보겠습니다.
 
 VueJS를 설치하기 위해서 Package Manager인 [NPM](https://www.npmjs.com/)을 사용하여 위해 [NodeJS](https://nodejs.org/)가 설치되어 있어야 합니다. 설치는 해당 사이트를 참고 바랍니다.
 
-```
+```javascript
 // NodeJS 설치 버전 확인
 $ node -v
 v16.19.0
 ```
 
-NPM은 Java의 Maven이나 PHP의 Composer의 역할입니다.
+> NPM은 Java의 Maven이나 PHP의 Composer의 역할입니다.
 
 - VueJS : NPM
 - Spring Boot : Maven
