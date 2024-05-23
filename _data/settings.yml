@@ -12,8 +12,8 @@ address: Republic of Korea
 copyright: Copyright &copy; 2024 Developed by [Inversefirm](https://inversefirm.com)
 
 menu:
-  - { name: HOME, link: "/" }
-  - { name: BLOG, link: "/blog" }
+  - { name: 홈, link: "/" }
+  - { name: 블로그, link: "/blog" }
 
 #-------------------------------
 # Google Analytics Section
@@ -28,9 +28,10 @@ google-analytics: # UA-XXXXXX-X
 #-------------------------------
 # Comment Section (Utterances)
 
-utterances-repo: ultrakeypoint/ultrakeypoint.github.io
-utterances-term: title 
-utterances-theme: boxy-light
+utterances:
+  repo: ultrakeypoint/ultrakeypoint.github.io
+  term: title 
+  theme: boxy-light
 
 #-------------------------------
 # Hero Section

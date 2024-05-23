@@ -2,10 +2,14 @@
   "scripts": {
     "pre": "bundler install",
     "dev": "bundle exec jekyll serve --trace",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "push": "git push",
+    "add-commit": "git commit -am 'test'",    
+    "deploy": "npm run add-commit && npm run push"
   },
-  "dependencies": {
+  "name": "ultrakeypoint",
+  "version": "0.0.1",
+  "homepage": "https://ultrakeypoint.github.io/ultrakeypoint",
+  "devDependencies": {
     "gh-pages": "^6.1.1"
   }
 }
