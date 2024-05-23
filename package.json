@@ -1,7 +1,7 @@
 {
   "scripts": {
     "pre": "bundler install",
-    "dev": "bundle exec jekyll serve --trace",
+    "dev": "jekyll s --trace",
     "push": "git push",
     "add-commit": "git commit -am update",
     "deploy": "npm run add-commit && npm run push"

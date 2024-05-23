@@ -3,6 +3,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+
+# Markdown Processors
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
 permalink: pretty
 plugins:
   - jekyll-sitemap
@@ -32,3 +40,7 @@ exclude:
   - LICENSE.text
   - README.md
   - SECURITY.md
+  - .prettierrc
+  - .gitignore
+  - package-lock.json
+  - package.json
