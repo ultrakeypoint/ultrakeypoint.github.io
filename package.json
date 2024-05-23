@@ -3,8 +3,9 @@
     "pre": "bundler install",
     "dev": "jekyll s --trace",
     "push": "git push",
-    "add-commit": "git commit -am update",
-    "deploy": "npm run add-commit && npm run push"
+    "add": "git add .",
+    "commit": "git commit -m update",
+    "deploy": "npm run add && npm run commit && npm run push"
   },
   "name": "ultrakeypoint",
   "version": "0.0.1",
