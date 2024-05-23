@@ -8,8 +8,8 @@ author: ultrakeypoint
 description: I'm a software engineer.
 email: ultrakeypoint@email.com
 phone: +82 10 6590 0615
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+address: 24, Simgok-ro 45beon-gil, Sosa-gu, Bucheon-si, Gyeonggi-do, Republic of Korea
+copyright: Copyright &copy; 2024 Developed by [Inversefirm](https://inversefirm.com)
 
 menu:
   - { name: About, link: "/about" }
@@ -28,9 +28,11 @@ menu:
 google-analytics: # UA-XXXXXX-X
 
 #-------------------------------
-# Comment Section (Disqus)
+# Comment Section (Utterances)
 
-disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+utterances-repo: ultrakeypoint/ultrakeypoint.github.io
+utterances-term: title 
+utterances-theme: boxy-light
 
 #-------------------------------
 # Hero Section
@@ -39,37 +41,41 @@ hero:
   hero-title: Hi! I’m <br /> Won-Seon <br /> Software Developer
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-facebook", link: "https://www.facebook.com/inversefirm" }
+  # - { icon: "ti-instagram", link: "#" }
+  # - { icon: "ti-dribbble", link: "#" }
+  # - { icon: "ti-twitter", link: "#" }
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: 개발자 입니다.
 
 blurb-btn-link: "/about"
-blurb-btn-name: know more
+blurb-btn-name: 더 보기
 
 # About Page
 
 # Work Process Section
 work-process:
-  - title: "Research and Plan"
+  - title: "견적"
     icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "개발이 필요한 견적을 받아 일정과 공수를 산정합니다."
 
-  - title: "Design and Develop"
+  - title: "확정"
     icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "견적에 협의가 완료되면 "
 
-  - title: "Deliver"
+  - title: "개발"
     icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "개발에 착수하고, 진행사항에 필요한 내용을 공유합니다."
 
-# My Team Section
+  - title: "배달"
+    icon: "assets/images/icons/print.png"
+    content: "완료한 내용을 클라이언트에게 전달합니다."
+
+# My Team Section   
 team:
   - title: "Jack Schenziwe"
     image: "assets/images/team/member-1.png"
@@ -86,7 +92,7 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: Performance
+skills-title: 활동
 skills:
   - { name: Back-end, color: "#fdb157", value: "70%" }
   - { name: Front-end, color: "#9473e6", value: "80%" }

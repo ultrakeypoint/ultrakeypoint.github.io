@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "install": "bundler install",
-    "dev": "bundle exec jekyll serve",
+    "pre": "bundler install",
+    "dev": "bundle exec jekyll serve --trace",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
