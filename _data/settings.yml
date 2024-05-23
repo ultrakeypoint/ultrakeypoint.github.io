@@ -8,14 +8,12 @@ author: ultrakeypoint
 description: I'm a software engineer.
 email: ultrakeypoint@email.com
 phone: +82 10 6590 0615
-address: 24, Simgok-ro 45beon-gil, Sosa-gu, Bucheon-si, Gyeonggi-do, Republic of Korea
+address: Republic of Korea
 copyright: Copyright &copy; 2024 Developed by [Inversefirm](https://inversefirm.com)
 
 menu:
-  - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
+  - { name: HOME, link: "/" }
+  - { name: BLOG, link: "/blog" }
 
 #-------------------------------
 # Google Analytics Section
@@ -38,7 +36,7 @@ utterances-theme: boxy-light
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br /> Won-Seon <br /> Software Developer
+  hero-title: Hi! I’m <br /> Won-Seon <br /> Software Engineer
 
 social:
   - { icon: "ti-facebook", link: "https://www.facebook.com/inversefirm" }
@@ -50,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: 개발자 입니다.
+blurb: 문제를 해결할 때 입니다.
 
 blurb-btn-link: "/about"
 blurb-btn-name: 더 보기
@@ -92,7 +90,7 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: 활동
+skills-title: 스킬
 skills:
   - { name: Back-end, color: "#fdb157", value: "70%" }
   - { name: Front-end, color: "#9473e6", value: "80%" }
@@ -102,57 +100,57 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: 경험
 experience:
   - {
-      name: Junior UX Designer,
+      name: Junior Developer,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "2008-12 ~ 2012-10",
+      organization: "Unichal",
     }
   - {
-      name: UX & UI Designer,
+      name: Intermediate Developer,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "2012-11 ~ 2014-07",
+      organization: "SB",
     }
   - {
-      name: Senior UI Designer,
+      name: Senior Developer,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "2014-08 ~ 현재",
+      organization: "Inversefirm",
     }
 
 #-------------------------------
 # Education Section
 
-education-title: Education
+education-title: 교육
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: 컴퓨터 소프트웨어학,
+      date: "2009",
+      organization: "광운대학교 공과대학",
     }
-  - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
-    }
-  - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
-    }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
-    }
+  # - {
+  #     name: Honours in Fine Arts,
+  #     date: "2004",
+  #     organization: "Harvard University",
+  #   }
+  # - {
+  #     name: Higher Secondary Certificat,
+  #     date: "2000",
+  #     organization: "Cardiff School",
+  #   }
+  # - {
+  #     name: Secondary School Certificate,
+  #     date: "1998",
+  #     organization: "Cardiff School",
+  #   }
 
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: 서비스
 services:
   - {
       name: UI Design,
@@ -305,5 +303,5 @@ client-slider-items:
 #-------------------------------
 # Contact Section
 
-contact-title: Contact Info
+contact-title: 연락처 정보
 contact-email: ultrakeypoint@email.com
