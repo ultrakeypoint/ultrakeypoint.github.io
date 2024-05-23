@@ -7,8 +7,6 @@ logo:
 author: ultrakeypoint
 description: I'm a software engineer.
 email: ultrakeypoint@email.com
-# phone: +82 10 6590 0615
-phone: +82 10 6590 0615
 address: Seoul, Republic of Korea
 copyright: Copyright &copy; 2024 Developed by [Inversefirm](https://inversefirm.com)
 
@@ -50,7 +48,8 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: 문제를 해결할 때 입니다.
+blurb: 대학교에서 컴퓨터 소프트웨어학을 전공하고, LG전자 휴대폰과 성북구도시관리 전산 시스템을 관리하고, 현재는 소프트웨어 유지보수 전문 기업을 운영하고 있습니다.
+시스템을 구축하고 문제를 해결하는 일에 흥미를 느끼고, 
 
 blurb-btn-link: "/about"
 blurb-btn-name: 더 보기
@@ -96,8 +95,8 @@ skills-title: 스킬
 skills:
   - { name: Back-end, color: "#fdb157", value: "70%" }
   - { name: Front-end, color: "#9473e6", value: "80%" }
-  - { name: DB, color: "#bdecf6", value: "60%" }
-  - { name: Mobile , color: "#ffbcaa", value: "70%" }
+  - { name: DB, color: "#bdecf6", value: "70%" }
+  - { name: Mobile , color: "#ffbcaa", value: "80%" }
 
 #-------------------------------
 # Exprerience Section
@@ -133,21 +132,21 @@ education:
       date: "2009",
       organization: "광운대학교 공과대학",
     }
-  # - {
-  #     name: Honours in Fine Arts,
-  #     date: "2004",
-  #     organization: "Harvard University",
-  #   }
-  # - {
-  #     name: Higher Secondary Certificat,
-  #     date: "2000",
-  #     organization: "Cardiff School",
-  #   }
-  # - {
-  #     name: Secondary School Certificate,
-  #     date: "1998",
-  #     organization: "Cardiff School",
-  #   }
+  - {
+      name: 정보처리기사,
+      date: "2007",
+      organization: "한국산업인력공단",
+    }
+  - {
+      name: 안드로이드 어플리케이션 교육 이수1,
+      date: "2000",
+      organization: "전파진흥원1",
+    }
+  - {
+      name: 안드로이드 어플리케이션 교육 이수2,
+      date: "1998",
+      organization: "전파진흥원2",
+    }
 
 #-------------------------------
 # Services Section
