@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VueJS Note for Back-end
+title: VueJS Note for Back-End (1)
 date: 2024-05-23
 image: /assets/images/blog/2024-05-24/1.png
 author: ultrakeypoint
