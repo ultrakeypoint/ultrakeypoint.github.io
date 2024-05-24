@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "pre": "bundler install",
+    "pre": "bundle install",
     "dev": "jekyll s --drafts",
     "trace": "jekyll s --trace",
     "push": "git push",
@@ -10,5 +10,5 @@
   },
   "name": "ultrakeypoint",
   "version": "0.0.1",
-  "homepage": "https://ultrakeypoint.github.io/ultrakeypoint"
+  "homepage": "https://ultrakeypoint.github.io"
 }
