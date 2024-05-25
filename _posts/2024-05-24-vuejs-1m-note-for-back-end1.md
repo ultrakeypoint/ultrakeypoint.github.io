@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VueJS 1분 노트 for Back-End(1)
-date: 2024-05-23
+date: 2024-05-24
 image: /assets/images/blog/2024-05-24/1.png
 author: ultrakeypoint
 tags: VueJS, VueJS 2
@@ -59,7 +59,7 @@ $ npm run dev
 
 - ![VueJS]
 
-여기까지 기본적인 VueJS 프로젝트 구동을 설명하였고, 다음 글에서는 VueJS 개념에 대해 설명 드리겠습니다.
+여기까지 기본적인 VueJS 프로젝트 구동을 설명하였고, 다음 글에서는 [VueJS 핵심개념](/2024/05/25/vuejs-1m-note-for-back-end2/)에 대해 설명 드리겠습니다.
 
 <!-- 이미지 -->
 
