@@ -2,17 +2,19 @@
 #-------------------------------
 # General Site Settings
 
-title: UltraKeypoint
+title: ultrakeypoint
 logo:
 author: ultrakeypoint
-description: I'm a software engineer.
+description: ultrakeypoint blog
 email: ultrakeypoint@email.com
 address: Seoul, Republic of Korea
 copyright: Copyright &copy; 2024 Developed by [Inversefirm](https://inversefirm.com)
+url: "https://ultrakeypoint.github.io"
+image: "assets/images/blog/2024-05-23/1.png"
 
 menu:
-  - { name: 홈, link: "/" }
-  - { name: 블로그, link: "/blog" }
+  - {name: 홈, link: "/"}
+  - {name: 블로그, link: "/blog"}
 
 #-------------------------------
 # Google Analytics Section
@@ -29,7 +31,7 @@ google-analytics: # UA-XXXXXX-X
 
 utterances:
   repo: ultrakeypoint/ultrakeypoint.github.io
-  term: title 
+  term: title
   theme: boxy-light
 
 #-------------------------------
@@ -39,7 +41,7 @@ hero:
   hero-title: Hi! <br /> I’m <b>Won-Seon</b> <br /> Software Engineer <br /> Simple is best
 
 social:
-  - { icon: "ti-facebook", link: "https://www.facebook.com/inversefirm" }
+  - {icon: "ti-facebook", link: "https://www.facebook.com/inversefirm"}
   # - { icon: "ti-instagram", link: "#" }
   # - { icon: "ti-dribbble", link: "#" }
   # - { icon: "ti-twitter", link: "#" }
@@ -74,7 +76,7 @@ work-process:
     icon: "assets/images/icons/print.png"
     content: "완료한 내용을 클라이언트에게 전달합니다."
 
-# My Team Section   
+# My Team Section
 team:
   - title: "Jack Schenziwe"
     image: "assets/images/team/member-1.png"
@@ -93,10 +95,10 @@ team:
 
 skills-title: 기술
 skills:
-  - { name: Back-end, color: "#fdb157", value: "70%" }
-  - { name: Front-end, color: "#9473e6", value: "80%" }
-  - { name: DB, color: "#bdecf6", value: "70%" }
-  - { name: Mobile , color: "#ffbcaa", value: "80%" }
+  - {name: Back-end, color: "#fdb157", value: "70%"}
+  - {name: Front-end, color: "#9473e6", value: "80%"}
+  - {name: DB, color: "#bdecf6", value: "70%"}
+  - {name: Mobile, color: "#ffbcaa", value: "80%"}
 
 #-------------------------------
 # Exprerience Section
@@ -107,19 +109,19 @@ experience:
       name: 주니어 개발자,
       icon: "icon-3.png",
       date: "2008년 12월 ~ 2012년 10월",
-      organization: "유니챌",
+      organization: "유니챌"
     }
   - {
       name: 미드레벨 개발자,
       icon: "icon-2.png",
       date: "2012년 11월 ~ 2014년 07월",
-      organization: "성북구도시관리공단",
+      organization: "성북구도시관리공단"
     }
   - {
       name: 시니어 개발자,
       icon: "icon-1.png",
       date: "2014년 08월 ~ 현재",
-      organization: "인버스펌",
+      organization: "인버스펌"
     }
 
 #-------------------------------
@@ -130,22 +132,18 @@ education:
   - {
       name: 컴퓨터 소프트웨어학,
       date: "2009",
-      organization: "광운대학교 공과대학",
+      organization: "광운대학교 공과대학"
     }
+  - {name: 정보처리기사, date: "2008", organization: "한국산업인력공단"}
   - {
-      name: 정보처리기사,
-      date: "2008",
-      organization: "한국산업인력공단",
+      name: 안드로이드 App 개발 교육 과정 수료,
+      date: "2009",
+      organization: "한국전파진흥원"
     }
   - {
       name: 안드로이드 App 개발 교육 과정 수료,
       date: "2009",
-      organization: "한국전파진흥원",
-    }
-  - {
-      name: 안드로이드 App 개발 교육 과정 수료,
-      date: "2009",
-      organization: "한국전파진흥원",
+      organization: "한국전파진흥원"
     }
 
 #-------------------------------
@@ -157,19 +155,19 @@ services:
       name: UI Design,
       icon: ti-palette,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
+      active: Add true to select section
     }
   - {
       name: UX Design,
       icon: ti-vector,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: true, # Add true to select section
+      active: true # Add true to select section
     }
   - {
       name: Interaction Design,
       icon: ti-panel,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
+      active: Add true to select section
     }
 
 #-------------------------------
@@ -194,9 +192,9 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - {title: "UI/UX Design", type: "design"}
+  - {title: "BRANDING", type: "branding"}
+  - {title: "ILLUSTRATION", type: "illustration"}
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
