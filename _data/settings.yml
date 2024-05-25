@@ -36,7 +36,7 @@ utterances:
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br /> Won-Seon <br /> Software Engineer
+  hero-title: Hi! <br /> I’m <b>Won-Seon</b> <br /> Software Engineer <br /> Simple is best
 
 social:
   - { icon: "ti-facebook", link: "https://www.facebook.com/inversefirm" }
