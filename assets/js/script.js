@@ -13,21 +13,21 @@
   // Background-images
   $("[data-background]").each(function () {
     $(this).css({
-      "background-image": "url(" + $(this).data("background") + ")",
+      "background-image": "url(" + $(this).data("background") + ")"
     });
   });
 
   // background color
   $("[data-color]").each(function () {
     $(this).css({
-      "background-color": $(this).data("color"),
+      "background-color": $(this).data("color")
     });
   });
 
   // progress bar
   $("[data-progress]").each(function () {
     $(this).css({
-      bottom: $(this).data("progress"),
+      bottom: $(this).data("progress")
     });
   });
 
@@ -95,7 +95,7 @@
     speed: 300,
     slidesToShow: 1,
     arrows: false,
-    adaptiveHeight: true,
+    adaptiveHeight: true
   });
 
   // clients logo slider
@@ -111,31 +111,31 @@
         breakpoint: 1024,
         settings: {
           slidesToShow: 3,
-          slidesToScroll: 1,
-        },
+          slidesToScroll: 1
+        }
       },
       {
         breakpoint: 600,
         settings: {
           slidesToShow: 3,
-          slidesToScroll: 1,
-        },
+          slidesToScroll: 1
+        }
       },
       {
         breakpoint: 480,
         settings: {
           slidesToShow: 2,
-          slidesToScroll: 1,
-        },
+          slidesToScroll: 1
+        }
       },
       {
         breakpoint: 400,
         settings: {
           slidesToShow: 1,
-          slidesToScroll: 1,
-        },
-      },
-    ],
+          slidesToScroll: 1
+        }
+      }
+    ]
   });
 
   // Shuffle js filter and masonry
@@ -144,7 +144,7 @@
 
   var myShuffle = new Shuffle(document.querySelector(".shuffle-wrapper"), {
     itemSelector: ".shuffle-item",
-    buffer: 1,
+    buffer: 1
   });
 
   jQuery('input[name="shuffle-filter"]').on("change", function (evt) {

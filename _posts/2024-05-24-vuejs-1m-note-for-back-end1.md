@@ -4,7 +4,7 @@ title: VueJS 1분 노트 for Back-End 1
 date: 2024-05-24
 image: /assets/images/blog/2024-05-24/1.png
 author: ultrakeypoint
-tags: [VueJS2, Back-End]
+tags: [dev, VueJS2, Back-End]
 ---
 
 Front-End 개발에 익숙하지 않는 개발자(Back-End, DBA 등)를 위해 VueJS 쉽고 빠르게 개발할 수 있도록 만든 초경량 가이드입니다. 이미 개발에 대한 사전지식이 있다고 가정합니다. VueJS는 웹을 좀 더 쉽게 개발하기 위해 Javascript로 만들어진 Front-End 프래임워크입니다. Back-End에는 Spring Boot, Codeigniter와 같은 역할입니다. VueJS는 이름처럼 Javascript Framework이고, Javascript를 동작시키는 브라우저에서 실행이 됩니다.
@@ -59,9 +59,9 @@ $ npm run dev
 
 - ![VueJS]
 
-여기까지 기본적인 VueJS 프로젝트 구동을 설명하였고, 다음 글에서는 [VueJS 핵심개념](/2024/05/25/vuejs-1m-note-for-back-end2/)에 대해 설명 드리겠습니다.  
+여기까지 기본적인 VueJS 프로젝트 구동을 설명하였고, 다음 글에서는 [VueJS 핵심개념](/2024/05/25/vuejs-1m-note-for-back-end2/)에 대해 설명 드리겠습니다.
 
-`도움이 되셨다면, 댓글 부탁 드립니다.` :+1:  
+`도움이 되셨다면, 댓글 부탁 드립니다.` :+1:
 
 <!-- 이미지 -->
 

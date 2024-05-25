@@ -171,6 +171,14 @@ services:
     }
 
 #-------------------------------
+# Blog Section
+
+# Blog Page
+blog-tags:
+  - {title: "일상", type: "life"}
+  - {title: "개발", type: "dev"}
+
+#-------------------------------
 # Portfolio (Section and Page)
 
 # Portfolio Home Section
