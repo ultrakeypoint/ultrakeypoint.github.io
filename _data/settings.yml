@@ -38,7 +38,7 @@ utterances:
 # Hero Section
 
 hero:
-  hero-title: Hi! <br /> I’m <b>Won-Seon</b> <br /> Software Engineer <br /> Simple is best
+  hero-title: Hi! I’m<br />Won-Seon<br /> S/W Engineer <br /> Slient Power
 
 social:
   - {icon: "ti-facebook", link: "https://www.facebook.com/inversefirm"}
