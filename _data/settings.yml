@@ -8,6 +8,7 @@ author: ultrakeypoint
 description: ultrakeypoint blog
 email: ultrakeypoint@email.com
 address: Seoul, Republic of Korea
+sponsors: https://github.com/sponsors/ultrakeypoint
 copyright: Copyright &copy; 2024 Developed by [Inversefirm](https://inversefirm.com)
 url: "https://ultrakeypoint.github.io"
 image: "assets/images/blog/2024-05-23/1.png"
@@ -41,8 +42,8 @@ hero:
   hero-title: Hi! I’m<br />Won-Seon<br /> S/W Engineer <br /> Slient Power
 
 social:
+  - {icon: "ti-github", link: "https://github.com/sponsors/ultrakeypoint"}
   - {icon: "ti-facebook", link: "https://www.facebook.com/inversefirm"}
-  # - { icon: "ti-instagram", link: "#" }
   # - { icon: "ti-dribbble", link: "#" }
   # - { icon: "ti-twitter", link: "#" }
 

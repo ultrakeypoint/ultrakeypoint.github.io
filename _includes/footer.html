@@ -5,21 +5,32 @@
       <div class="row">
         <div class="col-md-4">
           <h5 class="text-light">전자메일</h5>
-          <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.email }}</p>
+          <p class="text-white paragraph-lg font-secondary">
+            {{ site.data.settings.email }}
+          </p>
         </div>
         <div class="col-md-4">
           <h5 class="text-light">활동지역</h5>
-          <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.address }}</p>
+          <p class="text-white paragraph-lg font-secondary">
+            {{ site.data.settings.address }}
+          </p>
+        </div>
+        <div class="col-md-4">
+          <h5 class="text-light">후원하기</h5>
+          <p class="text-white paragraph-lg font-secondary">
+            <a href="{{site.data.settings.sponsors}}">Github Sponsors</a>
+          </p>
         </div>
       </div>
     </div>
   </div>
   <div class="border-top text-center border-dark py-5">
-    <p class="mb-0 text-light">{{site.data.settings.copyright | markdownify}}</p>
+    <p class="mb-0 text-light">
+      {{site.data.settings.copyright | markdownify}}
+    </p>
   </div>
 </footer>
 <!-- /footer -->
-
 
 <!-- JS Plugins -->
 {% for js in site.data.plugins.js %}
