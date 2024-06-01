@@ -2,7 +2,7 @@
 
 Software Engineer
 
-No matter what industry it is, we strive to solve problems.
+No matter what industry it is, we strive to solve problems
 
 # Sponsors
 
