@@ -22,8 +22,6 @@ setTimeout(() => console.log("Hello World"), 3000);
 ![EventLoopVisual]  
 (출처: [EventLoop])
 
-`도움이 되셨다면, 댓글 부탁 드립니다.` :+1:
-
 <!-- 이미지 -->
 
 [EventLoopVisual]: /assets/images/blog/2024-05-27/2.png

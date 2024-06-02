@@ -76,5 +76,3 @@ transaction commit before : 2024-05-28 11:06:51
 
 transaction commit after : 2024-05-28 11:06:53
 ```
-
-`도움이 되셨다면, 댓글 부탁 드립니다.` :+1:

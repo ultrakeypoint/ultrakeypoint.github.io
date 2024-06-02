@@ -61,8 +61,6 @@ $ npm run dev
 
 여기까지 기본적인 VueJS 프로젝트 구동을 설명하였고, 다음 글에서는 [VueJS 핵심개념](/2024/05/25/vuejs-1m-note-for-back-end2/)에 대해 설명 드리겠습니다.
 
-`도움이 되셨다면, 댓글 부탁 드립니다.` :+1:
-
 <!-- 이미지 -->
 
 [VueJS]: /assets/images/blog/2024-05-24/2.png
