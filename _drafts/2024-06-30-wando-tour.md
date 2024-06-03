@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 붉은 빛 참돔
-date: 2024-06-03
-image: /assets/images/blog/2024-06-03/1.png
+date: 2024-06-30
+image: /assets/images/blog/2024-06-30/1.png
 author: ultrakeypoint
 tags: [life, 완도, 휴가]
 ---
