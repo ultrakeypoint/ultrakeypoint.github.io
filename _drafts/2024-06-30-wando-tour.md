@@ -4,7 +4,7 @@ title: 붉은 빛 참돔
 date: 2024-06-30
 image: /assets/images/blog/2024-06-30/1.png
 author: ultrakeypoint
-tags: [life, 완도, 휴가]
+tags: [life, 완도, 휴가, refresh]
 ---
 
 물류센터 오픈에 주말과 휴일을 반납하고 문제없이 오픈하여 받은 보상은 이틀의 대체 휴가. 주말을 붙여서 4일이라는 휴가는 생각만 해도 달달하다. 마침 고모의 아들, 명훈이 형의 아버지, 고모부의 기일 전이라 전화가 왔다.
