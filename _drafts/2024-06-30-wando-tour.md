@@ -66,5 +66,3 @@ tags: [life, 완도, 휴가]
 . 나의 아픔을 되돌아보며
 . 완도 배낚시
 . 서울 상경
-
-[이희재]: https://namu.wiki/w/%EC%9D%B4%ED%9D%AC%EC%9E%AC(%EB%A7%8C%ED%99%94%EA%B0%80)
