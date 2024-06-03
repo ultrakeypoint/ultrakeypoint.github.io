@@ -7,7 +7,7 @@ author: ultrakeypoint
 tags: [dev, javascript, thread]
 ---
 
-Javascript는 개발하다 보면 데이터를 불러오고, 저장하고, 반복적으로 호출하는 등 다양한 요청을 어떻게 처리할지 고민하게 된다. XMLHttpRequest, Ajax, Axio, Promise, await, async 등등 동시성 기능을 개선하기 위해 오래전부터 발전해 왔다.
+Javascript는 개발하다 보면 데이터를 불러오고, 저장하고, 반복적으로 호출하는 등 다양한 요청을 어떻게 처리할지 고민하게 된다. XMLHttpRequest, Ajax, Axio, Promise, await, async 등 동시성 기능을 개선하기 위해 발전했다.
 
 몇십 년이 지난 지금은 Package나 Libraray를 통해 쉽고 편리하게 사용하고 있다. 그런데, 우리는 한 번쯤 `Javascript는 Single Thread`라는 얘기를 들어본 적이 있을 것이다. Thread가 1개라는 것은 1개의 로직만 실행할 수 있다는 것인데, 어떻게 여러 개의 로직을 비동기적으로 처리할 수 있을까?
 
