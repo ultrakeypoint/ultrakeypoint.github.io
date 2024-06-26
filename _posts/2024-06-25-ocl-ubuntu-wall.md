@@ -1,11 +1,13 @@
 ---
 layout: post
-title: OCL 우분투 서버 방화벽 설정
+title: OCI 우분투 서버 방화벽 설정
 date: 2024-06-26
 image: /assets/images/blog/2024-06-26/1.png
 author: ultrakeypoint
 tags: [dev, 우분투, 방화벽]
 ---
+
+오라클 클라우드 우분투 서버 방화벽 설정
 
 ```bash
 
