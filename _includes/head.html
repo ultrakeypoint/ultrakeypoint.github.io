@@ -5,17 +5,8 @@
     }}{% endif %}
   </title>
 
-  <meta
-    name="google-adsense-account"
-    content="ca-pub-8456508259506424" />
-
-  <meta
-    name="google-site-verification"
-    content="SC7-6iU1D7ttJDawlruwBPV4d-jBuVT5cHwMHC8YpXI" />
-
-  <meta
-    name="naver-site-verification"
-    content="27924fd25331a2d249f39b7730321649ec0eb2f9" />
+  <!-- site-verification -->
+  {% include site-verification.html %}
 
   <!-- mobile responsive meta -->
   <meta
@@ -77,4 +68,7 @@
   <!-- google analytics -->
   {% if site.data.settings.google-analytics %} {% include google-analytics.html
   %} {% endif %}
+
+  <!-- aesense -->
+  {% include adsense.html %}
 </head>
