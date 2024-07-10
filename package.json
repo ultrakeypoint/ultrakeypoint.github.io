@@ -1,12 +1,8 @@
 {
   "scripts": {
     "pre": "bundle install",
-    "dev": "jekyll s --drafts",
-    "trace": "jekyll s --trace",
-    "push": "git push",
-    "add": "git add .",
-    "commit": "git commit -m update",
-    "deploy": "npm run add && npm run commit && npm run push"
+    "dev": "jekyll s --drafts --port 3000",
+    "trace": "jekyll s --trace --port 3000"
   },
   "name": "ultrakeypoint",
   "version": "0.0.1",
