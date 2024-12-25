@@ -111,19 +111,19 @@ experience:
       name: 주니어 개발자,
       icon: "icon-3.png",
       date: "2008년 12월 ~ 2012년 10월",
-      organization: "유니챌"
+      organization: "U사"
     }
   - {
       name: 미드레벨 개발자,
       icon: "icon-2.png",
       date: "2012년 11월 ~ 2014년 07월",
-      organization: "성북구도시관리공단"
+      organization: "S사"
     }
   - {
       name: 시니어 개발자,
       icon: "icon-1.png",
       date: "2014년 08월 ~ 현재",
-      organization: "인버스펌"
+      organization: "I사"
     }
 
 #-------------------------------
