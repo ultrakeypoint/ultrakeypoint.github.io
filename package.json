@@ -1,8 +1,8 @@
 {
   "scripts": {
     "pre": "bundle install",
-    "dev": "jekyll s --drafts --port 3000",
-    "trace": "jekyll s --trace --port 3000"
+    "dev": "bundle exec jekyll s --drafts --port 3000",
+    "trace": "bundle exec jekyll s --trace --port 3000"
   },
   "name": "ultrakeypoint",
   "version": "0.0.1",
